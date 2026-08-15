@@ -20,7 +20,7 @@ A real-time terminal network monitor built with Python, Textual, and `psutil` fo
 - psutil
 
 #### Download the libraries
-[!NOTE]
+> [!NOTE]
 > I have used `uv` as the package manager in this project. You can use any other based on your liking.
 ```
 uv pip install textual psutil
