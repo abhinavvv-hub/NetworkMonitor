@@ -154,7 +154,7 @@ class SystemMonitor(App):
         ("q", "quit", "Quit App"),
     ]
 
-    TITLE = "Arch TUI System Network Monitor"
+    TITLE = "TUI System Network Monitor"
     SUBTITLE = f"Date: {datetime.now().strftime('%Y-%m-%d')}"
 
     def compose(self):
